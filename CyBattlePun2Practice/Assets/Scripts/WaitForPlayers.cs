@@ -11,7 +11,7 @@ public class WaitForPlayers : MonoBehaviourPunCallbacks
     [SerializeField] private GameObject m_enterButton;
     [SerializeField] private GameObject m_returnButton;
 
-    [SerializeField, Range(2, 6)] private int m_maxPlayers;
+    [SerializeField, Range(2, 6)] private int m_maxPlayers = 4;
     [SerializeField] private CarryExplanationSO m_explanationSO;
 
     private IEnumerator m_delayedLobbyLoading;

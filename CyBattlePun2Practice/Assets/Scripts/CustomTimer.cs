@@ -412,8 +412,6 @@ public class CustomTimer : MonoBehaviour
                 else if (!m_showMilliseconds)
                 {
                     _timeToDisplay += 1;
-                    //if (_timeToDisplay >= m_combinedTimeValuesD)
-                    //    _timeToDisplay = m_combinedTimeValuesD;
                 }
 
                 break;

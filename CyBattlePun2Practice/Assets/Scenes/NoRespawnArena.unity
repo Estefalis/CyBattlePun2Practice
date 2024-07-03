@@ -88513,7 +88513,7 @@ MonoBehaviour:
   m_waitingForText: {fileID: 1211821124}
   m_enterButton: {fileID: 80123508}
   m_returnButton: {fileID: 1320492244}
-  m_maxPlayers: 4
+  m_maxPlayers: 2
   m_explanationSO: {fileID: 11400000, guid: 3d5e7fe7e5ebcaf4f872174113607a2a, type: 2}
 --- !u!1 &509852887
 GameObject:
